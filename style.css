@@ -1,0 +1,36 @@
+body{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.text_area textarea{
+	text-align: center;
+}
+
+
+.text_area{
+margin-top: 100px;
+margin-left: 300px;
+
+}
+
+
+.textarea_counter{
+	text-align: center;
+}
+
+.word_counter{
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
+}
+
+
+.green{
+	color:green;
+}
+    
+.red{
+	color: red;
+}
